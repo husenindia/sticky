@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+/*********** CORE ***********/
+/* THEME CSS */
+* { margin:0px; padding:0px; }
+.header { height:1800px; background:#CCC; border-bottom:10px solid #000; }
+.temp-height { height:200px; background:#666 }
+.content { height:800px; background:#9DA090;; }
+.bottom { bottom:0; top:inherit; width:100%; }
